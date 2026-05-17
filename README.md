@@ -38,7 +38,14 @@ The software development process followed the **Agile Methodology**, structuring
 * **Database Design:** Normalized relations optimized via precise database indexing on heavy-read query targets (`email`, `order_id`, `medicine_id`).
 
 ---
+👥 Contributors (Project Team)
+Md Nakibul Islam
 
+Oasif Sadik Jisan
+
+Md Roknuzzaman Khandoker
+
+Saiyeda Lamiya Rikti
 ## 🚀 Installation & Local Setup
 
 ### Prerequisites
